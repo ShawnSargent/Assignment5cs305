@@ -3,6 +3,6 @@ This repository is the home of the Official Unofficial Calculator of airspeed fo
 # Contributors
 - Shawn Sargent
 - Nicholas Ray
-- Adam Montano
+- Adam Montano (ajm2327)
 # License
 This project follows the [GNU License](LICENSE)
