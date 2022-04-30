@@ -5,4 +5,4 @@ This repository is the home of the Official Unofficial Calculator of airspeed fo
 - Nicholas Ray
 - Adam Montano
 # License
-This project 
+This project follows the [GNU License](LICENSE)
